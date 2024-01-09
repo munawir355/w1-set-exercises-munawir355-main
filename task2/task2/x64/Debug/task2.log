@@ -1,0 +1,6 @@
+﻿  task2-functions.cpp
+C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task2\task2\task2-functions.cpp(52,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task2\task2\task2-functions.cpp(62,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  task2.cpp
+  Generating Code...
+  task2.vcxproj -> C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task2\x64\Debug\task2.exe

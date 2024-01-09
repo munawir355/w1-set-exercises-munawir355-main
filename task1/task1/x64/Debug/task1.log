@@ -1,0 +1,7 @@
+﻿  task1-functions.cpp
+C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task1\task1\task1-functions.cpp(17,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task1\task1\task1-functions.cpp(22,11): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task1\task1\task1-functions.cpp(32,17): warning C4804: '<': unsafe use of type 'bool' in operation
+  task1.cpp
+  Generating Code...
+  task1.vcxproj -> C:\Users\Hafsa Mehmood\Desktop\Freelance\W1,2\w1-set-exercises-munawir355-main\w1-set-exercises-munawir355-main\tasks\task1\x64\Debug\task1.exe
